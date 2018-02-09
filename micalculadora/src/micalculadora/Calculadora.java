@@ -9,7 +9,7 @@ package micalculadora;
  *
  * @author Estudiantes
  */
-public class Calculadora {lalalalal
+public class Calculadora {
 
     /**
      * @param args the command line arguments
